@@ -89,5 +89,5 @@ tags:
 <!-- description:end -->
 <p><strong>个人看法：</p></strong>
 感觉不久前做过一个相当相似的题，同样的dp做法，同样的给数组多一个数字防止查找的索引溢出，同样的vector里面包着array<br>
-~~以及同样的array声明出错~~
+<del><i>以及同样的array声明出错</i></del>
 
